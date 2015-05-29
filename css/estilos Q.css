@@ -1,0 +1,56 @@
+* {
+margin:0px;
+padding:0px;
+
+}
+
+div#body {
+	margin:auto;
+	margin-top:60px;
+	width:600px;
+	height:600px;
+	border:0px solid black;
+	float:right;
+	
+
+}
+
+
+div#mujer {  
+	width:400px;
+	height:400px;
+	
+
+
+}
+
+div#mujer1 {
+	width:400px;
+	height:400px;
+	float:left;
+}
+
+
+
+#jeans {
+	float:left;
+
+}
+a#jeans   
+{   
+ text-decoration:none;   
+} 
+
+a#chaquetas 
+{   
+ text-decoration:none;   
+} 
+
+a#calzado
+{   
+ text-decoration:none;   
+} 
+
+
+
+

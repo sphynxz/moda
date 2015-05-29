@@ -1,0 +1,71 @@
+* {
+margin:0px;
+padding:0px;
+
+}
+
+div#body {
+	margin:auto;
+	margin-top:60px;
+	width:900px;
+	height:300px;
+	border:0px solid black;
+
+}
+
+div#mujer {  
+	width:300px;
+	height:300px;
+	float:left;
+
+
+}
+
+div#mujer1 {
+	width:300px;
+	height:300px;
+	float:left;
+}
+
+div#mujer2 {
+	width:300px;
+	height:300px;
+	float:left;
+}
+
+
+
+a#retyf  
+{   
+ text-decoration:none;   
+} 
+
+h4#p1 {
+
+	color:blue;
+}
+
+h3#p2 {
+
+	color:red;
+}
+
+
+#link a {text-decoration:none;color:#0000cc;} 
+}
+
+a#metit
+{   
+ text-decoration:none;   
+} 
+
+a#hipors
+{   
+ text-decoration:none;   
+} 
+
+
+
+
+
+

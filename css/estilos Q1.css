@@ -1,0 +1,85 @@
+* {
+margin:0px;
+padding:0px;
+
+}
+
+div#body {
+	margin:auto;
+	margin-top:60px;
+	width:900px;
+	height:300px;
+	border:0px solid black;
+
+}
+
+div#mujer {  
+	width:300px;
+	height:300px;
+	float:left;
+
+
+}
+
+div#mujer1 {
+	width:300px;
+	height:300px;
+	float:left;
+}
+
+div#mujer2 {
+	width:300px;
+	height:300px;
+	float:left;
+}
+
+
+
+
+
+h4#p1 {
+
+	color:blue;
+}
+
+h3#p2 {
+
+	color:red;
+}
+
+
+#link a {text-decoration:none;color:#0000cc;} 
+}
+
+
+a#p4 , 
+{   
+ text-decoration:none;   
+}
+
+
+a#royde, a#hyret, a#royde, a#houster
+{   
+ text-decoration:none;   
+} 
+
+a#gosth, a#petit, a#motrix, a#matt
+{   
+ text-decoration:none;   
+} 
+
+a#godz, a#hipters, a#hips, a#himd
+{   
+ text-decoration:none;   
+}
+
+
+a#metit, a#riketo
+{   
+ text-decoration:none;   
+} 
+
+a#hipors, a#wolver, a#hipping
+{   
+ text-decoration:none;   
+} 
